@@ -1,0 +1,5 @@
+export const MESSAGES_LIMIT = 20
+export const FILE_POLLING_MAX_ATTEMPTS = 10
+export const FILE_POLLING_INTERVAL_MS = 1500
+export const TEXTAREA_MAX_HEIGHT_PX = 180
+export const SCROLL_THRESHOLD_PX = 60
